@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_jrf_request_user,jrf.request.user,model_jrf_request,jrf_odoo_ops.group_jrf_user,1,1,1,0
+access_jrf_request_management,jrf.request.management,model_jrf_request,jrf_odoo_ops.group_jrf_management,1,1,1,0
+access_jrf_change_user,jrf.change.user,model_jrf_change,jrf_odoo_ops.group_jrf_user,1,1,1,0
+access_jrf_change_management,jrf.change.management,model_jrf_change,jrf_odoo_ops.group_jrf_management,1,1,1,0
